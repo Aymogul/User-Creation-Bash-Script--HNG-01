@@ -216,9 +216,13 @@ JPEGS TO HELP
 ![alt text](./screenshots/s-6.PNG)
 
 ## Conclusion
-With this, we have successfully automated user creation with a Bash script and streamlined the process with Docker. From defining user details in users.txt to containerized execution, we've done it all.
+With this, we have successfully automated user creation with a Bash script which could help to reduce errorand ensure reliability, from defining user details in users.txt to execution, the project has transitioned from execution to completion.
 To be part of the program that provided this task scenario, visit their official websites to gain more insights
 
 https://hng.tech/internship
 
 https://hng.tech/hire
+
+Below is a medium link the project:
+
+https://medium.com/@adesokanisrael22/linux-user-creation-with-bash-script-39c37e2e4234
