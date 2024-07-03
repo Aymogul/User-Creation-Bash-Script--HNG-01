@@ -201,19 +201,19 @@ ls -ld /home/isreal /home/isreal2 /home/isreal3
 
 JPEGS TO HELP
 
-![](https://github.com/UzonduEgbombah/SysOps-Project/assets/137091610/856bd5d1-d014-461b-aba5-860bbf0f11c3)
+![alt text](./screenshots/s-2.PNG)
 
 
-![](https://github.com/UzonduEgbombah/SysOps-Project/assets/137091610/8efe6f7a-cf4f-4d8f-9b05-307246c54725)
+![alt text](./screenshots/s-3.PNG)
 
 
-![](https://github.com/UzonduEgbombah/SysOps-Project/assets/137091610/108c9c56-4619-42f0-85b0-0d332464da01)
+![alt text](./screenshots/s-4.PNG)
 
 
-![](https://github.com/UzonduEgbombah/SysOps-Project/assets/137091610/0676c8ba-efd6-4b48-a991-e4f8e8ebf567)
+![alt text](./screenshots/s-5.PNG)
 
 
-![](https://github.com/UzonduEgbombah/SysOps-Project/assets/137091610/4f20b97c-7b24-44d1-bd5f-a921a5c2aaee)
+![alt text](./screenshots/s-6.PNG)
 
 ## Conclusion
 With this, we have successfully automated user creation with a Bash script and streamlined the process with Docker. From defining user details in users.txt to containerized execution, we've done it all.
