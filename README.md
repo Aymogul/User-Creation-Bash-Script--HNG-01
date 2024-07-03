@@ -119,10 +119,7 @@ Finally, the script logs the completion of the user creation process.
 
 echo "User creation process completed. Check the log file at $LOG_FILE for details."
 
-
-![](https://github.com/UzonduEgbombah/SysOps-Project/assets/137091610/daf380f7-c8ee-4b36-8df4-a8ed15c6bb29)
-
-![](\Users\User\Pictures\jenkins-project\s-1.PNG)
+![alt text](./screenshots/s-1.PNG)
 
 
 
