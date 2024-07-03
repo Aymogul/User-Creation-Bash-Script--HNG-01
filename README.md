@@ -220,4 +220,5 @@ With this, we have successfully automated user creation with a Bash script and s
 To be part of the program that provided this task scenario, visit their official websites to gain more insights
 
 https://hng.tech/internship
+
 https://hng.tech/hire
