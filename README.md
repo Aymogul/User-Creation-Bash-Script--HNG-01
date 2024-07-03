@@ -216,3 +216,9 @@ JPEGS TO HELP
 
 ![](https://github.com/UzonduEgbombah/SysOps-Project/assets/137091610/4f20b97c-7b24-44d1-bd5f-a921a5c2aaee)
 
+## Conclusion
+With this, we have successfully automated user creation with a Bash script and streamlined the process with Docker. From defining user details in users.txt to containerized execution, we've done it all.
+To be part of the program that provided this task scenario, visit their official websites to gain more insights
+
+https://hng.tech/internship
+https://hng.tech/hire
