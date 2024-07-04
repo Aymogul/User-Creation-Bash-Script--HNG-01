@@ -223,6 +223,6 @@ https://hng.tech/internship
 
 https://hng.tech/hire
 
-Below is a medium link the project:
+Below is a link to the project article:
 
-https://medium.com/@adesokanisrael22/linux-user-creation-with-bash-script-39c37e2e4234
+https://dev.to/adesokan_israel_109436759/linux-users-creation-with-bash-script-4733
