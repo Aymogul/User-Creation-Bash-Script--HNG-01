@@ -1,5 +1,4 @@
 ## Automating User Creation with Bash
-
 As a SysOps engineer, one of the tasks you might encounter is the need to automate the creation of users and groups on your Linux servers. This script, create_users.sh, simplifies the process by reading a file containing usernames and group names, creating users and groups as specified, setting up home directories, and generating random passwords. In this article, we'll walk through the script step by step.
 
 #### Script Overview
